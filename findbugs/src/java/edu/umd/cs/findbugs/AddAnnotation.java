@@ -28,13 +28,14 @@ import edu.umd.cs.findbugs.annotations.SuppressWarnings;
 
 /**
  * Add an annotation string to every BugInstance in a BugCollection.
+ * Añadir cadena de anotación a cada BugInstance de una BugCollections.
  */
 public class AddAnnotation {
     private static final Logger LOGGER = Logger.getLogger(AddAnnotation.class.getName());
 
-    private BugCollection bugCollection;
+    private final BugCollection bugCollection;
 
-    private String annotation;
+    private final String annotation;
 
     public AddAnnotation(BugCollection bugCollection, String annotation) {
         this.bugCollection = bugCollection;
