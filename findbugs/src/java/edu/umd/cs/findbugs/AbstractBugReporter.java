@@ -46,6 +46,9 @@ import edu.umd.cs.findbugs.util.ClassName;
 /**
  * An abstract class which provides much of the functionality required of all
  * BugReporter objects.
+ *
+ * Una clase abstracta que provee de mucha de la funcionalidad requerida por
+ * todos los objetos BugReporter
  */
 public abstract class AbstractBugReporter implements BugReporter {
     private static final boolean DEBUG = SystemProperties.getBoolean("abreporter.debug");
