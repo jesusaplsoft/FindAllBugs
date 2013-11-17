@@ -1,0 +1,107 @@
+#Spanish translation provided by Fernando Garcia-Loygorri
+
+
+menu.file_menu=&Fichero
+menu.new_item=&Nuevo Proyecto
+menu.open_item=Abrir...
+menu.recent_menu=Proyectos &Recientes...
+menu.save_item=Guardar
+menu.saveas_item=Gu&ardar como...
+menu.reload_item=Volve&r a cargar Proyecto
+menu.close_item=&Cerrar Proyecto
+menu.loadbugs_item=Cargar Aná&lisis...
+menu.savebugs_item=Guardar &Análisis
+menu.exit_item=Terminar
+menu.reconfig=Volver a configurar...
+
+menu.edit_menu=&Editar
+menu.selectall_item=Seleccion&ar Todo
+
+menu.navigation=&Navigar
+menu.designation=&Designar
+menu.view_menu=&Ver
+menu.console_item=&Consola
+menu.bugdetails_item=&Detalles del Fallo
+menu.fulldescriptions_item=Descripciones Completas
+menu.viewprojectdetails_item=Ver Detalles del Proyecto
+menu.viewbugs_item=Ver Fallos
+menu.exit=Salir
+menu.filtersAndSupressions=Filtros/Supressiones...
+menu.sortConfiguration=Agrupar errores mediante...
+menu.gotoLine=Ir a línea...
+menu.changeDesignation=Cambiar Designación
+menu.filterBugsLikeThis=Filtrar Errores Como Éste...
+menu.filterTheseBugs=Filtrar Estos Errores
+menu.mergeAnalysis=Fusionar Análisis...
+menu.suppress=Suprimir este error
+menu.expand=Expandir
+menu.collapse=Colapsar
+menu.up=Arriba
+menu.down=Abajo
+
+menu.filterwarnings_menu=Filter Warnings
+menu.lowpriority_item=Baja Prioridad
+menu.mediumpriority_item=Prioridad Media
+menu.highpriority_item=Alta Prioridad
+
+menu.settings_menu=Propiedades
+menu.configure_item=Configurar Detectores
+
+menu.help_menu=Ayuda
+menu.about_item=Sobre...
+
+menu.edit_menu=Editar
+menu.selectall_item=Seleccionar Todo
+menu.copy_item=Copiar
+
+dlg.noproject_lbl=FindBugs - ningún proyecto
+dlg.unnamed_lbl=<<Proyecto sin Título>>
+dlg.project_lbl=Proyecto
+dlg.jarfile_lbl=Archivo or Directorio:
+dlg.jarlist_lbl=Archivos/Directorios:
+dlg.srcfile_lbl=Directorio fuente:
+dlg.srclist_lbl=Lista de directorios fuente:
+dlg.classpathfile_lbl=Elemento de classpath:
+dlg.classpathlist_lbl=Elementos de classpath:
+dlg.add_btn=Añadir
+dlg.remove_btn=Quitar
+dlg.browse_btn=Navegar
+dlg.up_btn=Arriba
+dlg.down_btn=Abajo
+
+dlg.byclass_tab=Por Clases
+dlg.bypackage_tab=Por Paquetes
+dlg.bybugtype_tab=Por Tipos de Fallo
+dlg.bybugcategory_tab=Por Category
+dlg.summary_tab=Resumen
+dlg.details_tab=Detalles
+dlg.sourcecode_tab=Código Fuente
+dlg.annotations_tab=Anotaciones
+
+dlg.analysiserror_lbl=Errores detectados durante el análisis:
+dlg.ok_btn=Aceptar
+
+dlg.stage_lbl=Etapa:
+dlg.count_lbl=Cuenta:
+dlg.progress_lbl=Progreso:
+dlg.cancel_btn=Anular
+
+dlg.restoredefaults_btn=Reponer Valores Originales
+
+dlg.bugdetector_lbl=Detector de Fallos
+dlg.speed_lbl=Velocidad
+dlg.enabled_lbl=Operativo
+
+dlg.about_tab=Sobre
+dlg.license_tab=Autorización
+dlg.acknowledgements_tab=Reconocimientos
+
+msg.scanningarchives_txt=Leyendo archivos
+msg.analysingclasses_txt=Analizando clases
+msg.finishedanalysis_txt=Análisis completo
+msg.cancelanalysis_txt=Anular el análisis?
+msg.analyze_txt=Analizar
+
+
+
+
